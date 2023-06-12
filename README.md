@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+![Capture1](https://github.com/emanojbisht/Movie-Plex/assets/46516136/dee8d41d-98b7-48f4-82b0-19e12edca350)
+
+![Capture2](https://github.com/emanojbisht/Movie-Plex/assets/46516136/5f294063-534a-465a-8341-a935b3098f52)
+
+# Getting Start![Uploading Capture1.PNG…]()
+ed with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
