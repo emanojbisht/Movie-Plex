@@ -3,7 +3,7 @@
 ![Capture2](https://github.com/emanojbisht/Movie-Plex/assets/46516136/5f294063-534a-465a-8341-a935b3098f52)
 
 # Getting Start!
-ed with Create React App
+This project was bootstrapped with Create React App.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
